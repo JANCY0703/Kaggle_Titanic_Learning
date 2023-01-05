@@ -6,9 +6,7 @@
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/code/arthurtok/introduction-to-ensembling-stacking-in-python)
 - [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/code/gunesevitan/titanic-advanced-feature-engineering-tutorial)
 
-这三篇就是Kaggle Tutorials中向Beginner推荐的Notebook
-
-![官网截图](C:/Users/lenovo/Desktop/1.png)
+这三篇也是Kaggle Tutorials中向Beginner推荐的Notebook
 
 由于Kaggle中的notebook均为英文，学习起来不太方便，因此我将notebook翻译为中文并对代码进行了复现，且加上了自己的注释，方便阅读。
 
